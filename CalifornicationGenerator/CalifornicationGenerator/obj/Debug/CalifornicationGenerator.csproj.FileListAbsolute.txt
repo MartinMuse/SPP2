@@ -1,0 +1,9 @@
+D:\5 сем\facker\NewFaker\CalifornicationGenerator\CalifornicationGenerator\bin\Debug\CalifornicationGenerator.dll
+D:\5 сем\facker\NewFaker\CalifornicationGenerator\CalifornicationGenerator\bin\Debug\CalifornicationGenerator.pdb
+D:\5 сем\facker\NewFaker\CalifornicationGenerator\CalifornicationGenerator\bin\Debug\Generator.dll
+D:\5 сем\facker\NewFaker\CalifornicationGenerator\CalifornicationGenerator\bin\Debug\Generator.pdb
+D:\5 сем\facker\NewFaker\CalifornicationGenerator\CalifornicationGenerator\obj\Debug\CalifornicationGenerator.csprojAssemblyReference.cache
+D:\5 сем\facker\NewFaker\CalifornicationGenerator\CalifornicationGenerator\obj\Debug\CalifornicationGenerator.csproj.CoreCompileInputs.cache
+D:\5 сем\facker\NewFaker\CalifornicationGenerator\CalifornicationGenerator\obj\Debug\CalifornicationGenerator.csproj.CopyComplete
+D:\5 сем\facker\NewFaker\CalifornicationGenerator\CalifornicationGenerator\obj\Debug\CalifornicationGenerator.dll
+D:\5 сем\facker\NewFaker\CalifornicationGenerator\CalifornicationGenerator\obj\Debug\CalifornicationGenerator.pdb

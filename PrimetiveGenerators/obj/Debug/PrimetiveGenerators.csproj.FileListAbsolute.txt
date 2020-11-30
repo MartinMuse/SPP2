@@ -1,0 +1,9 @@
+D:\Learning\3 курс\СПП\Laba2\NewFaker\PrimetiveGenerators\bin\Debug\PrimetiveGenerators.dll
+D:\Learning\3 курс\СПП\Laba2\NewFaker\PrimetiveGenerators\bin\Debug\PrimetiveGenerators.pdb
+D:\Learning\3 курс\СПП\Laba2\NewFaker\PrimetiveGenerators\bin\Debug\Generator.dll
+D:\Learning\3 курс\СПП\Laba2\NewFaker\PrimetiveGenerators\bin\Debug\Generator.pdb
+D:\Learning\3 курс\СПП\Laba2\NewFaker\PrimetiveGenerators\obj\Debug\PrimetiveGenerators.csprojAssemblyReference.cache
+D:\Learning\3 курс\СПП\Laba2\NewFaker\PrimetiveGenerators\obj\Debug\PrimetiveGenerators.csproj.CoreCompileInputs.cache
+D:\Learning\3 курс\СПП\Laba2\NewFaker\PrimetiveGenerators\obj\Debug\PrimetiveGenerators.csproj.CopyComplete
+D:\Learning\3 курс\СПП\Laba2\NewFaker\PrimetiveGenerators\obj\Debug\PrimetiveGenerators.dll
+D:\Learning\3 курс\СПП\Laba2\NewFaker\PrimetiveGenerators\obj\Debug\PrimetiveGenerators.pdb

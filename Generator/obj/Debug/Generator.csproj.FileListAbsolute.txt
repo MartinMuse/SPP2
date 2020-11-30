@@ -1,0 +1,6 @@
+D:\Learning\3 курс\СПП\Laba2\NewFaker\Generator\bin\Debug\Generator.dll
+D:\Learning\3 курс\СПП\Laba2\NewFaker\Generator\bin\Debug\Generator.pdb
+D:\Learning\3 курс\СПП\Laba2\NewFaker\Generator\obj\Debug\Generator.csprojAssemblyReference.cache
+D:\Learning\3 курс\СПП\Laba2\NewFaker\Generator\obj\Debug\Generator.csproj.CoreCompileInputs.cache
+D:\Learning\3 курс\СПП\Laba2\NewFaker\Generator\obj\Debug\Generator.dll
+D:\Learning\3 курс\СПП\Laba2\NewFaker\Generator\obj\Debug\Generator.pdb

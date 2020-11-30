@@ -1,0 +1,8 @@
+D:\Learning\3 курс\СПП\Laba2\NewFaker\DTO\bin\Debug\DTO.dll
+D:\Learning\3 курс\СПП\Laba2\NewFaker\DTO\bin\Debug\DTO.pdb
+D:\Learning\3 курс\СПП\Laba2\NewFaker\DTO\bin\Debug\Generator.dll
+D:\Learning\3 курс\СПП\Laba2\NewFaker\DTO\bin\Debug\Generator.pdb
+D:\Learning\3 курс\СПП\Laba2\NewFaker\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Learning\3 курс\СПП\Laba2\NewFaker\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\Learning\3 курс\СПП\Laba2\NewFaker\DTO\obj\Debug\DTO.dll
+D:\Learning\3 курс\СПП\Laba2\NewFaker\DTO\obj\Debug\DTO.pdb
